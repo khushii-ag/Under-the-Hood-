@@ -1,5 +1,6 @@
 # Under-the-Hood-
 Submission for Task 4 for Programming Club IITK secretary recruitments.
+
 LOGISTIC NEURAL NETWORK WITH SINGLE HIDDEN LAYER
 
 - This code can classify data into two categories [0 or 1] based on training data. 
